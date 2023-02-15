@@ -13,4 +13,4 @@ Let's design an e-commerce database
 
 E-Commerce database scheme is designed : 
 
-![Bildschirmfoto 2023-02-08 um 12 20 20](https://user-images.githubusercontent.com/120198895/217487933-4412a58d-0849-4b7e-83a4-9056f8113ae1.png)
+![Bildschirmfoto 2023-02-15 um 15 08 20](https://user-images.githubusercontent.com/120198895/219023503-266c696a-afc6-4639-9795-49dc43b1a29f.png)
