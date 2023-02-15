@@ -9,7 +9,6 @@ namespace OnlineCommerce
 		public int CompanyNumber { get; set; }
 
 		public Order Order { get; set; }
-		public List<ProductBill> ProductBills { get; set; }
     }
 }
 

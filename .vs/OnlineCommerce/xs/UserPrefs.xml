@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{82CE5A61-F3F3-47FB-935D-F2682AF7D68A}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{82CE5A61-F3F3-47FB-935D-F2682AF7D68A}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
@@ -14,7 +14,7 @@
       <File FileName="OnlineCommerce/Product.cs" />
       <File FileName="OnlineCommerce/ProductOrder.cs" Line="16" Column="1" />
       <File FileName="OnlineCommerce/ProductBill.cs" />
-      <File FileName="OnlineCommerce/Bill.cs" Line="12" Column="54" />
+      <File FileName="OnlineCommerce/Bill.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -26,7 +26,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>
