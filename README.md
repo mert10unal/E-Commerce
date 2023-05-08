@@ -13,7 +13,7 @@ Let's design an e-commerce database
 
 E-Commerce database scheme is designed : 
 
-![Bildschirmfoto 2023-02-15 um 15 08 20](https://user-images.githubusercontent.com/120198895/219023503-266c696a-afc6-4639-9795-49dc43b1a29f.png)
+![Bildschirmfoto 2023-05-08 um 20 08 41](https://user-images.githubusercontent.com/120198895/236886832-872c3be4-a3cf-46c2-be9e-667e68063226.png)
 
 In line with this design, some datas that answer the frequently asked questions :
 
